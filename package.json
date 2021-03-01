@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "jsartoolkit": "kalwalt/jsartoolkit5.git#fixing-nft",
-    "three": "^0.112"
+    "three": "^0.125"
   },
   "devDependencies": {
     "webpack": "^4.41.5",
