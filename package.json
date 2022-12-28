@@ -3,18 +3,15 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "start": "webpack-dev-server --inline --hot --colors --content-base public/"
-  },
+  "scripts": {},
   "author": "",
   "license": "ISC",
   "dependencies": {
     "jsartoolkit": "kalwalt/jsartoolkit5.git#fixing-nft",
-    "three": "^0.112"
+    "three": "^0.125"
   },
   "devDependencies": {
-    "webpack": "^4.41.5",
-    "webpack-cli": "^3.3.10",
-    "webpack-dev-server": "^3.10.1"
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
   }
 }
