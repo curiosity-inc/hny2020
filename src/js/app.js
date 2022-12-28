@@ -7,7 +7,7 @@ let marker = {
 	width: 874,
 	height: 590,
 	dpi: 150,
-	url: "../../../DataNFT/2020_greenting_omote"
+	url: "../../../DataNFT/image2023"
 };
 
 let container = document.getElementById("app");
